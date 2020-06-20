@@ -12,3 +12,9 @@ Please Make sure that you have Node 10.13 or later installed which pre-requiste 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+
+
+![Flight Booking Dashboard Screenshot](https://drive.google.com/file/d/1Sedzf-jJdL3SneJwj9NE9o7EuiH8XunX/view?usp=sharing "Flight Booking Dashboard Screenshot")
+
+
