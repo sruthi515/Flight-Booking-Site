@@ -15,6 +15,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 
 
-![Flight Booking Dashboard Screenshot](https://drive.google.com/file/d/1Sedzf-jJdL3SneJwj9NE9o7EuiH8XunX/view?usp=sharing "Flight Booking Dashboard Screenshot")
+Flight Booking Dashboard Screenshot link: `https://drive.google.com/file/d/1Sedzf-jJdL3SneJwj9NE9o7EuiH8XunX/view?usp=sharing`
 
 
