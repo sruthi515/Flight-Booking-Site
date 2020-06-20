@@ -1,4 +1,4 @@
-# Flight Booking App
+# Flight Booking Site
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 Please Make sure that you have Node 10.13 or later installed which pre-requiste for angualar-cli 9.1.0 
